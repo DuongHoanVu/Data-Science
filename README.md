@@ -1,4 +1,4 @@
-# Data-Science 
+# Customer Analytics
 All files are taken from the Udemy course, "Customer Analytics in Python", by 365 Careers Team.
 
 ## Summary
